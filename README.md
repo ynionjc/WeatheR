@@ -8,6 +8,8 @@ The application allows a user to view the current weather of his own location. T
 
 The application uses the API from [OpenWeatherMap](https://openweathermap.org/)
 
+![Main Screen](./screenshot_city.png) ![Search Screen](./screenshot_search.png)
+
 # Version of the NodeJS
 
 The app requires node 12.9.0
